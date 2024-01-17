@@ -20,3 +20,5 @@ Arquivos de configuração global para personalizar a estrutura da aplicação N
 ### documento.js
 
 - Usado para personalizar o HTML de todas as páginas em relação ao <head>
+- Pode ser usado para meta tags, scripts, estilos globais
+- è carregado no servidor na renderização inicial
